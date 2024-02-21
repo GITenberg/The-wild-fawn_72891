@@ -1,5 +1,8 @@
 _repo: The-wild-fawn_72891
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72891-h/images/cover.jpg
 creator:
   author:
     agent_name: Taylor, Mary Imlay
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '48463'
     url: http://www.gutenberg.org/2009/agents/48463
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72891#The-wild-fawn
 gutenberg_issued: '2024-02-07'
 gutenberg_type: Text
 identifiers:
